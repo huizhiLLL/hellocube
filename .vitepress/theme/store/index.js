@@ -7,7 +7,7 @@ export const mainStore = defineStore("main", {
       themeType: "auto",
       themeValue: "light",
       // banner
-      bannerType: "half",
+      bannerType: "full",
       // 加载状态
       loadingStatus: true,
       // 滚动高度
@@ -42,7 +42,7 @@ export const mainStore = defineStore("main", {
       // 背景模糊
       backgroundBlur: false,
       // 全站字体
-      fontFamily: "hmos",
+      fontFamily: "lxgw",
       // 全站字体大小
       fontSize: 16,
       // 信息显示位置
